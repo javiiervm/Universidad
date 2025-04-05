@@ -1,0 +1,5 @@
+#lang racket
+(define (cuadrado x)
+  (* x x))
+(define (distancia a b)
+  (sqrt(+ (cuadrado a) (cuadrado b))
