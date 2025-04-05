@@ -1,0 +1,8 @@
+1|cuestion|respuesta
+1|                       cuestion                   |                            respuesta
+1|cuestion|aksdjfaskljdfas
+3|pregunta1|respuesta a
+4|pregunta2|dfasdfasfasfa
+2|pregunta3|aksdjfaskljdfas
+1|pregunta4|aksdjfaskljdfas
+3|aadkfjsad|aksdjfaskljdfas

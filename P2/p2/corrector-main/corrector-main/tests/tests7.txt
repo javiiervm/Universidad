@@ -1,0 +1,81 @@
+1
+
+1
+-1
+0
+7
+
+1
+3
+
+1
+3
+No xd|
+
+1
+3
+¿Han matado a Kenny?
+1
+1
+Pregunta random 1
+1
+2
+Pregunta random 2
+3
+
+3
+4
+
+3
+0
+1
+3
+1
+2
+4
+
+4
+profesor a
+0123
+4
+profesor a
+Teacher1
+teacHer 1
+Al
+THE principal is waiting for you at his office so that you can explain what you did
+esta frase tiene exactamente 50 caracteres si o si
+                                    THE principal                                 
+0
+01
+012
+012345
+0123
+5
+THE principal
+0123
+2
+
+2
+questions.csv
+questions.csv
+4
+profesor conteston
+1234
+5
+profesor conteston
+1234
+2
+You bastards
+4
+I am going home
+b
+3
+3
+6
+7
+
+8
+
+8
+salida-obtenida/questions_in_db.csv
+q

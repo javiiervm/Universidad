@@ -1,0 +1,16 @@
+
+1|cuestion|respuesta
+
+                1                       |                       cuestion                   |                            respuesta
+1|cuestion|
+1asdfjlkaskldjfasdñkljfas|cuestion|
+1asdfjlkaskldjfasdñkljfas|cuestion
+asdflsdfs|alkfjaslkfjasd
+aslkfjasldjfaskdjfas
+2|
+|||
+100|kasjflkasj|sflka
+3|pregunta1
+4|pregunta2
+2|pregunta3
+1|pregunta4
